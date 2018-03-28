@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My POC Application</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_users">UsersActivity</string>
+</resources>
